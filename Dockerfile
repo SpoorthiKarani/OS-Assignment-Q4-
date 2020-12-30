@@ -4,7 +4,7 @@ FROM python:2.7
 
 # Maintainer name to let people know who made this image.
 
-MAINTAINER Prashanth S <1ms18cs096@gmail.com>
+MAINTAINER Spoorthi Karani <1ms18cs123@gmail.com>
 
 #apt is the ubuntu command line tool for advanced packaging tool(APT) for sw upgrade '''
 
